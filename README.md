@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gregrolf
+- 👀 I’m interested in the BTC lightning network
+- 📫 Reach me here
